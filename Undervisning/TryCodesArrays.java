@@ -1,6 +1,4 @@
-import java.util.Scanner;
-import java.util.Arrays;
-public class TryCodes {
+public class TryCodesArrays {
     void main(){
 
 

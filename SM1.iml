@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Opgaver/Variables/Level1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Undervisning" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UgeOpgaver/Variabler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SP1/Hero builder" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
